@@ -1,7 +1,7 @@
-package es.jpulgarinp.hyperspin.utils.romUtils;
+package es.beltazhor.hyperspin.utils.romUtils;
 
 /**
- * @author Jesus Pulgarin
+ * @author beltazhor
  * Class for modifying ROM names in hyperspin databases
  * It takes as input the actual database and a file with the correspondency between rom code names and "understandable" names
  * 
